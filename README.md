@@ -36,4 +36,4 @@ If you want to do everything really well, here are some guidelines. Solutions sh
  and including the problem being worked on in parenthesis. For example `feature(C01_P04): added solution`.  The C01_P04
  referring to Chapter 1, Problem 4.  Look at our [commit history](https://github.com/careercup/CtCI-6th-Edition-Python/commits/master) for more examples:
 
-We'll still work with your contributions even if they don't follow these guidelines so don't let that stop you.
+We'll still work with your contributions even if they don't follow these guidelines so don't let that stop you.  
